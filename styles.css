@@ -33,3 +33,9 @@ ul{
     display: flex;
     flex-direction: row;
 }
+
+.navbar-left, .navbar-right{
+    display: flex;
+    width: 58%;
+    justify-content: center;
+}
