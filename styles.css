@@ -21,4 +21,15 @@ body{
 .header-link{
     font-size: 18px;
     color: #E5E7EB;
+    margin: 10px;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
 }
